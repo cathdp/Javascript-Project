@@ -1,1 +1,2 @@
-# Javascript-Project
+# javascript-challenge
+
